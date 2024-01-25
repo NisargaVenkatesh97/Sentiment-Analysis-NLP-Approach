@@ -39,6 +39,7 @@ Random Forest is the collection of many decision trees where at each candidate s
 Logistic Regression is one of the effective model for linear classification problems. Logistic regression provides the weights of each features that are responsible for discriminating each class.
 
 Below are the word cloud visualization for IMDB datasets using Random Forest and Logistic Regression.
+
 <img src="reports/wordcloud/wordcloudafterclassifier.png" width="200">
 
 **Important words for sentiment classification.**
